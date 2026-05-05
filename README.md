@@ -1,7 +1,7 @@
-# pyLightspeed
-Trying to make working with the Lightspeed API more polite. (pyLight? anyone? no? I thought it was good.)
+# pyLightspeed v1
+This is an old version. It works, might be educational if you are just trying to figure out Lightspeeds APIs, but try https://github.com/EvilConsultant/pyLightspeed which is more robust and capable. 
 
-Right now this is in progress and focused on the POS side. eCom side will come soon. This is super under construction. I am not maintaining good git habits yet, this is just me working. Use at your own risk.
+This is partially implemented, and no longer used. I am not maintaining good git habits yet, this is just me working. Use at your own risk.
 
 ## Usage
 
